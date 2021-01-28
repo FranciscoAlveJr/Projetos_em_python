@@ -1,2 +1,2 @@
 # Python-exercicios
- Exercícios feitos em Python
+ Projetos feitos em Python
